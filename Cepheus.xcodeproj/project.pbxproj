@@ -40,6 +40,7 @@
 		33167DE01E644A1E00419153 /* libsqlite3.tbd in Frameworks */ = {isa = PBXBuildFile; fileRef = 33167DDF1E644A1E00419153 /* libsqlite3.tbd */; };
 		33167DE31E644A4F00419153 /* CepheusManager.m in Sources */ = {isa = PBXBuildFile; fileRef = 33167DE21E644A4F00419153 /* CepheusManager.m */; };
 		33167DE91E64514700419153 /* CShareMessage.m in Sources */ = {isa = PBXBuildFile; fileRef = 33167DE81E64514700419153 /* CShareMessage.m */; };
+		33167DEC1E646CC300419153 /* CShareUI.m in Sources */ = {isa = PBXBuildFile; fileRef = 33167DEB1E646CC300419153 /* CShareUI.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -98,6 +99,8 @@
 		33167DE61E644D5400419153 /* CepheusMacro.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = CepheusMacro.h; sourceTree = "<group>"; };
 		33167DE71E64514700419153 /* CShareMessage.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = CShareMessage.h; sourceTree = "<group>"; };
 		33167DE81E64514700419153 /* CShareMessage.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = CShareMessage.m; sourceTree = "<group>"; };
+		33167DEA1E646CC300419153 /* CShareUI.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = CShareUI.h; sourceTree = "<group>"; };
+		33167DEB1E646CC300419153 /* CShareUI.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = CShareUI.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -180,6 +183,8 @@
 				33167DE21E644A4F00419153 /* CepheusManager.m */,
 				33167DE71E64514700419153 /* CShareMessage.h */,
 				33167DE81E64514700419153 /* CShareMessage.m */,
+				33167DEA1E646CC300419153 /* CShareUI.h */,
+				33167DEB1E646CC300419153 /* CShareUI.m */,
 				33167D951E6447F000419153 /* ShareSDK */,
 			);
 			path = Cepheus;
@@ -393,6 +398,7 @@
 				33167D851E6447C900419153 /* ViewController.m in Sources */,
 				33167DE91E64514700419153 /* CShareMessage.m in Sources */,
 				33167D821E6447C900419153 /* AppDelegate.m in Sources */,
+				33167DEC1E646CC300419153 /* CShareUI.m in Sources */,
 				33167D7F1E6447C900419153 /* main.m in Sources */,
 				33167DE31E644A4F00419153 /* CepheusManager.m in Sources */,
 			);

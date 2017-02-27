@@ -12,8 +12,6 @@
 
 #import "CepheusManager.h"
 #import "CShareMessage.h"
-
-
-
+#import "CShareUI.h"
 
 #endif /* Cepheus_h */
